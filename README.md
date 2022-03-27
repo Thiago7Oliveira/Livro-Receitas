@@ -3,5 +3,4 @@
 Melhores receitas da família aqui!!
 
 + Strogonoff de Frango 
-
-# Livro-Receitas
++ Carne de Panela
